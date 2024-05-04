@@ -19,6 +19,6 @@ print('{} X 10 = {}'.format(n, n * 10))
 print('=========================')
 
 print('Muito Bem!!! '
-      '\nQuando esquercer das aulas de matemática de Tião, só correr aqui que eu te ajudo.'
+      '\nQuando esquecer das aulas de matemática de Tião, só correr aqui que eu te ajudo.'
       '\nSó não conta pra ninguém :( '
       '\nAté Logo....')
